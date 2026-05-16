@@ -1,2 +1,9 @@
-# Namma-Shaale-Inventory-Digital-Asset-Auditor-for-Schools-main-
-Namma Shaale Inventory Digital Asset Auditor for Schools is a digital inventory management system used to track and manage school assets like computers, projectors, printers, and lab equipment. It helps maintain records, monitor asset status, reduce paperwork, and improve transparency and efficiency in schools.
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
